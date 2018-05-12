@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/Entry.cpp
+Entry.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/Entry.h
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/Entry.h
+cstdlib
+-
+string
+-
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/PriorityQueue.cpp
+iostream
+-
+PriorityQueue.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/PriorityQueue.h
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/PriorityQueue.h
+Queue.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/Queue.h
+Entry.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/Entry.h
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/Queue.cpp
+Queue.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/Queue.h
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/Queue.h
+Entry.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/Entry.h
+
+C:/Users/marek.hasselder/CLionProjects/S02P02/main.cpp
+iostream
+-
+ctime
+-
+PriorityQueue.h
+C:/Users/marek.hasselder/CLionProjects/S02P02/PriorityQueue.h
+

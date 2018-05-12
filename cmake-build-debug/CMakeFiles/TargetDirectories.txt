@@ -1,0 +1,3 @@
+C:/Users/marek.hasselder/CLionProjects/S02P02/cmake-build-debug/CMakeFiles/S02P02.dir
+C:/Users/marek.hasselder/CLionProjects/S02P02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marek.hasselder/CLionProjects/S02P02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
